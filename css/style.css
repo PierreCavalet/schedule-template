@@ -1,0 +1,12 @@
+.responsive-timetable tr, .responsive-timetable,
+.responsive-timetable thead, .responsive-timetable tbody {
+  width: 100%;
+}
+
+.responsive-timetable th, .responsive-timetable td {
+  width: 12.5%;
+  background-color: #f0f0f0;
+  border: 1px solid black;
+  min-height: 50px;
+  height: 50px;
+}
