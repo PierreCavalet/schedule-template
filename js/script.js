@@ -1,4 +1,4 @@
-$.getJSON("../schedule.json", function(schedule){
+$.getJSON("./schedule.json", function(schedule){
 
   // ---------------- BIG --------------------
 
