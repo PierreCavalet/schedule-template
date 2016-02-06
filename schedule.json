@@ -1,0 +1,41 @@
+{
+  "start": 8.00,
+  "end": 18.00,
+  "schedules": [
+    {
+      "title": "Work",
+      "day": 1,
+      "start": 8.25,
+      "end": 9.00,
+      "color": "#F16363"
+    },
+    {
+      "title": "Eat",
+      "day": 1,
+      "start": 9.25,
+      "end": 10.00,
+      "color": "#76E87A"
+    },
+    {
+      "title": "Sleep",
+      "day": 1,
+      "start": 10.00,
+      "end": 10.25,
+      "color": "#9C9C9C"
+    },
+    {
+      "title": "Dance",
+      "day": 4,
+      "start": 8.00,
+      "end": 11.00,
+      "color": "#FBC0FF"
+    },
+    {
+      "title": "Swim",
+      "day": 3,
+      "start": 8.00,
+      "end": 9.25,
+      "color": "#B2C2FB"
+    }
+  ]
+}

@@ -1,12 +1,33 @@
-.responsive-timetable tr, .responsive-timetable,
-.responsive-timetable thead, .responsive-timetable tbody {
+.big-timetable tr, .big-timetable,
+.big-timetable thead, .big-timetable tbody {
   width: 100%;
 }
 
-.responsive-timetable th, .responsive-timetable td {
+.big-timetable th, .big-timetable td {
+  text-align: center;
   width: 12.5%;
   background-color: #f0f0f0;
-  border: 1px solid black;
+  border: 2px solid white;
   min-height: 50px;
   height: 50px;
+  padding: 20px;
+}
+
+.small-timetable ul {
+  padding: 0;
+  list-style-type: none;
+}
+
+.small-timetable h3 {
+  display: none;
+}
+
+.small-timetable li {
+  border-bottom: 1px solid #efefef;
+  padding: 10px 10px 10px 10px;
+  margin-bottom: 10px;
+}
+
+.sc-right {
+  float:right;
 }
